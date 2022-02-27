@@ -68,5 +68,6 @@
     <Build Include="dbo\Functions\fn_GetAllEmployeeOfADepartment.sql" />
     <Build Include="dbo\Tables\Product.sql" />
     <Build Include="USP_GetEmployeeList.sql" />
+    <Build Include="dbo\Tables\Country.sql" />
   </ItemGroup>
 </Project>
